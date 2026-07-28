@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+/* =========================================================
+   RESTAURANT THEME
+   Change these values to rebrand the entire website.
+   ========================================================= */
+   
 :root {
   --zd-primary: #8A1F11;
   --zd-primary-hover: #6E170C;
