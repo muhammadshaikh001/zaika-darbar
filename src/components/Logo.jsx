@@ -10,7 +10,7 @@ export default function Logo({ compact = false }) {
      />
 
      <div className="leading-[0.95] flex flex-col">
-     <span className="font-display font-semibold text-[#8A1F11] text-[19px] tracking-[-0.01em]">
+     <span className="font-display font-semibold text-[var(--zd-primary)] text-[19px] tracking-[-0.01em]">
       {SITE.name}
     </span>
     </div>
